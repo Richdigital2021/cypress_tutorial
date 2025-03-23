@@ -1,0 +1,17 @@
+{
+    "login":
+    {
+        "usernameField": "[data-test='username']",
+        "passwordField": "#password",
+        "loginButton": "#login-button"
+    },
+    "dashboard":
+    {
+
+    },
+    "adminPage":
+    {
+
+    }
+}
+
