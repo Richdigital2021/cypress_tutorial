@@ -13,3 +13,5 @@ This is a dummy readme file for students in the class to know how to create a **
 2. **What is my assignment on this?**
    - 
    - `Students are meant to clone this project and make amends on this readme file as it is a dummy readme file and we do not have enough time to discuss it in details`
+
+3. **Add more content to your readme file from here**
