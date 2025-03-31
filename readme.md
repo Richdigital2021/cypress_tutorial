@@ -15,11 +15,11 @@ Before running the tests, ensure you have the following installed:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/cypress-saucedemo.git
+   git clone https://github.com/Richdigital2021/cypress_tutorial.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd cypress-saucedemo
+   cd cypress_tutorial
    ```
 3. Install dependencies:
    ```sh
